@@ -4,7 +4,7 @@
 
   <h1>Vemula Shiva Kumar</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=AI%2FML+%26+Generative+AI+Engineer;RAG+Pipelines+%7C+Agentic+AI+%7C+Applied+ML;Technical+Writer+%40thegrootwrites+%7C+B.Tech+AIML+'27" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=AI%2FML+%26+Generative+AI+Engineer;RAG+Pipelines+%7C+Agentic+AI+%7C+Applied+ML;Creative+Writer+%40thegrootwrites+%7C+B.Tech+AIML+'27" alt="Typing Banner" />
 
   <p>
     <a href="https://www.linkedin.com/in/vemula-shiva-kumar-a37643311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
