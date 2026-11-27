@@ -64,9 +64,7 @@
 <!-- MEDIUM ARTICLES (AUTO-SYNCED) -->
 <h3 align="center">Latest Articles on <a href="https://thegrootwrites.medium.com/">Medium (@thegrootwrites)</a></h3>
 
-<!-- BLOG-POST-LIST:START -->
-- [Read my latest articles on AI/ML, RAG systems, and engineering builds](https://thegrootwrites.medium.com/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Po.](https://thegrootwrites.medium.com/po-df88a22241d2?source=rss-2867de10b92b------2) — *Mon Sep 07 2026 6:14 PM*- [Overr.](https://thegrootwrites.medium.com/overr-63b68b203860?source=rss-2867de10b92b------2) — *Wed Jul 08 2026 3:40 PM*- [How Beautyful.](https://thegrootwrites.medium.com/how-beautyful-f17a9fe40a9d?source=rss-2867de10b92b------2) — *Sun Jun 21 2026 7:51 AM*- [The Evermind Girl — Concealing](https://thegrootwrites.medium.com/the-evermind-girl-concealing-a8ec39dd3a9b?source=rss-2867de10b92b------2) — *Fri May 29 2026 5:41 AM*<!-- BLOG-POST-LIST:END -->
 
 <hr />
 
